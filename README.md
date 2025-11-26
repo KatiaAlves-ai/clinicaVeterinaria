@@ -1,1 +1,3 @@
-# clinicaVeterinaria
+<div align="center">
+<h1 style= "color:#20B2AA;">SISTEMA DE MODELAGEM DE BANCO DE DADOS - CLINICA VETERINARIA </h1>
+<H3> PROJETO ACADÊMICO - FACULDADE CRUZEIRO DO SUL </H3>
